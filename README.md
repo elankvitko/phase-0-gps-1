@@ -3,6 +3,7 @@
 git clone {link}
 cd
 touch
+mkdir
 git add .
 git commit -m {"message"}
 git push origin master
